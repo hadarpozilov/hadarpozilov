@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm 24 years old,🌍 I'm based in the center of Israel.
 
-A full stack developer with a passion for the profession,motivation for learning and development, Looking for a job centered on creativity, teamwork, and problem solving. Good interpersonal skills with a high work ethic and high interpersonal skills.
+A full stack developer with a passion for the profession,motivation for learning and development, Looking for a job centered on creativity, teamwork, and problem solving. Good interpersonal skills with a high work ethic.
 
 
 ## 🛠 Skills
