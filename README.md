@@ -17,7 +17,7 @@ A full stack developer with a passion for the profession,motivation for learning
 
 ## 🔗 Connect with me
 
-[![linkedin](https://media.licdn.com/dms/image/C4E0EAQH-n7Jsv3Szjg/rightRail-logo-shrink_100_100/0/1671182574200?e=1677765600&v=beta&t=CG7yE2H9QiX41zYlHRkVOEmZUe5z9KYzTwc8PixyIpw)](https://www.linkedin.com/in/hadar-pozilov/)
+[![linkedin](https://www.linkedin.com/in/hadar-pozilov/)
 
 
 ✉️ You can contact me at hadar4211@gmail.com 
